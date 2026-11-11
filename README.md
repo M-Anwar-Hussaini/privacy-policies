@@ -5,6 +5,7 @@ https://m-anwar-hussaini.github.io/privacy-policies/
 
 | App | Policy |
 | --- | --- |
+| HSK 4 | https://m-anwar-hussaini.github.io/privacy-policies/hsk4/ |
 | HSK 5 | https://m-anwar-hussaini.github.io/privacy-policies/hsk5/ |
 | BitLore | https://m-anwar-hussaini.github.io/privacy-policies/bitlore/ |
 | Wisdom | https://m-anwar-hussaini.github.io/privacy-policies/wisdom/ |
